@@ -1,0 +1,12 @@
+version: '4'
+services:
+  app:
+    container_name: app
+    image: antonnv22/crud:0.1.0
+    networks:
+      - crud-network
+    restart: always
+    ports:
+      - "8000:8080"
+networks:
+  crud-network:
