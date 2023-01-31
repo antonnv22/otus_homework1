@@ -14,7 +14,7 @@
 ###   
 ## `Выполнено :`
 ### `Приложение Spring Boot с контроллером`
-### `Dokerfile`
+### `Dockerfile`
 ### `Docker-compose`
 ### `Makefile`
 ### `Коллекция постман (newman run postman/collection.json)`
